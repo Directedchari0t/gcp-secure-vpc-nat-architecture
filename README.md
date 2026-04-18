@@ -1,0 +1,1 @@
+# gcp-secure-vpc-nat-architecture
